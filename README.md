@@ -51,4 +51,7 @@
 ![image](https://user-images.githubusercontent.com/70515589/208902912-8c38725d-9967-498f-8a73-1cfaaeb0afb1.png)
 
 - Pada dashboard Pendaftar, muncul menu cetak kartu setelah diverifikasi oleh admin <br>
-![image](https://user-images.githubusercontent.com/70515589/208903448-94f750cd-dce9-41e8-aa06-a93bb74cee7e.png)
+![image](https://user-images.githubusercontent.com/70515589/208903448-94f750cd-dce9-41e8-aa06-a93bb74cee7e.png) <br>
+![image](https://user-images.githubusercontent.com/70515589/208905269-b2f9c39a-5d07-4fae-aa2e-6b1c1f5bc0b0.png)
+
+
